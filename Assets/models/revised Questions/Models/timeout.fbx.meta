@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: ac427072d11f141268ac2f7edf3b0fd2
+timeCreated: 1519014907
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: polySurface100
+    100002: polySurface101
+    100004: polySurface102
+    100006: polySurface94
+    100008: polySurface95
+    100010: polySurface96
+    100012: polySurface97
+    100014: polySurface98
+    100016: polySurface99
+    100018: //RootNode
+    100020: transform3
+    400000: polySurface100
+    400002: polySurface101
+    400004: polySurface102
+    400006: polySurface94
+    400008: polySurface95
+    400010: polySurface96
+    400012: polySurface97
+    400014: polySurface98
+    400016: polySurface99
+    400018: //RootNode
+    400020: transform3
+    2300000: polySurface100
+    2300002: polySurface101
+    2300004: polySurface102
+    2300006: polySurface94
+    2300008: polySurface95
+    2300010: polySurface96
+    2300012: polySurface97
+    2300014: polySurface98
+    2300016: polySurface99
+    3300000: polySurface100
+    3300002: polySurface101
+    3300004: polySurface102
+    3300006: polySurface94
+    3300008: polySurface95
+    3300010: polySurface96
+    3300012: polySurface97
+    3300014: polySurface98
+    3300016: polySurface99
+    4300000: polySurface94
+    4300002: polySurface95
+    4300004: polySurface96
+    4300006: polySurface97
+    4300008: polySurface98
+    4300010: polySurface99
+    4300012: polySurface100
+    4300014: polySurface101
+    4300016: polySurface102
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: svgBlinn2
+    second: {fileID: 2100000, guid: a5839a35e3c7f4e488f9a8535d281a53, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
